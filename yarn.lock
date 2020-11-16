@@ -883,7 +883,7 @@
   resolved "https://registry.yarnpkg.com/@marvr/storyblok-rich-text-types/-/storyblok-rich-text-types-2.0.1.tgz#068c45a1ed9112d1a10ca6b7202ed787771f5f23"
   integrity sha512-S11Aey2mpmg2qXuI2OnhKMpEoZW8OzMhuDiLg9zW5Mqlna5g8aJSmy2468feo/0qOLwAT3gpHyNScPKBTtTswQ==
 
-"@marvr/storyblok-rich-text-vue-renderer@^2.0.1":
+"@marvr/storyblok-rich-text-vue-renderer@2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@marvr/storyblok-rich-text-vue-renderer/-/storyblok-rich-text-vue-renderer-2.0.1.tgz#ff8ca1334ce1d9734a51d657b2a8000e64142ac8"
   integrity sha512-bz3IRyTAx/XoG9Myt90oEcXrZmmRjZXsTL3qlT1EGYO9P2JTr1KIz+7DNvew+Ui1a4U036TCFsCp151LjB88NQ==
@@ -1132,7 +1132,7 @@
     rc9 "^1.0.0"
     std-env "^2.2.1"
 
-"@nuxt/types@^2.14.6":
+"@nuxt/types@2.14.7":
   version "2.14.7"
   resolved "https://registry.yarnpkg.com/@nuxt/types/-/types-2.14.7.tgz#f34536749b07ceeebaf21621d9816d2a71c53eee"
   integrity sha512-7aLOQDCb4wYMGHYj0EVBieqMC4aOo7ZVFP5jjWxuWSjzOroRWVE3TB10+wcu9E7FoOPT99vd4+bJ+He/WpDpBQ==
@@ -1156,7 +1156,7 @@
     "@types/webpack-dev-middleware" "^3.7.2"
     "@types/webpack-hot-middleware" "^2.25.3"
 
-"@nuxt/typescript-build@^2.0.3":
+"@nuxt/typescript-build@2.0.3":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@nuxt/typescript-build/-/typescript-build-2.0.3.tgz#338094f1bbadc21a59942c0aa0e272dff5a3f6a8"
   integrity sha512-iqxUV6sv86sat9VIlJyjL38oP+OkLg+gOr7uvYYRcYYGL6h/1OSWWIawyVsc4/RX9UGOy3JNj+BcvEo/7SkAUA==
@@ -1166,7 +1166,7 @@
     ts-loader "^8.0.3"
     typescript "~4.0"
 
-"@nuxt/typescript-runtime@^2.0.0":
+"@nuxt/typescript-runtime@2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@nuxt/typescript-runtime/-/typescript-runtime-2.0.0.tgz#57b1f0aeabe49c7548fa412b7ffd46ae424afefa"
   integrity sha512-jF//aTclzhdaExENtLbWFpBAGcg9Aj0V4rEWnNGTdWfqurMMdzC96U+oa8UJIMMZgTp9MW3vaqbKuzTq8btz/A==
@@ -1265,7 +1265,7 @@
     webpack-node-externals "^2.5.2"
     webpackbar "^4.0.0"
 
-"@nuxtjs/axios@^5.12.2":
+"@nuxtjs/axios@5.12.2":
   version "5.12.2"
   resolved "https://registry.yarnpkg.com/@nuxtjs/axios/-/axios-5.12.2.tgz#ff0d15ba5d3442dcbd12245f864effec3bea3cde"
   integrity sha512-MKSuwHRgLTw1tMS1mDf+7XIvQLvF8GlK3rtuJY4lNmZVxYiBYhG3Nd6OrtH07fljNmvL7/JIUzk+1o/tVS6Pkg==
@@ -1284,7 +1284,7 @@
     consola "^2.11.3"
     http-proxy-middleware "^1.0.4"
 
-"@nuxtjs/tailwindcss@^3.1.0":
+"@nuxtjs/tailwindcss@3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-3.2.0.tgz#43e47188fd16f993b93d6e9057e4da83057a2fbd"
   integrity sha512-CNlnV4wqhxtTmzsQIvRMW1SKUyBkWPwlk7bEVfNDFTj5Z3kvfL3g+QC8gtRwFiZH4mBeXof36CDfDwRSStFmJQ==
@@ -1304,7 +1304,7 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@tailwindcss/typography@^0.2.0":
+"@tailwindcss/typography@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.2.0.tgz#b597c83502e3c3c6641a8aaabda223cd494ab349"
   integrity sha512-aPgMH+CjQiScLZculoDNOQUrrK2ktkbl3D6uCLYp1jgYRlNDrMONu9nMu8LfwAeetYNpVNeIGx7WzHSu0kvECg==
@@ -1694,7 +1694,7 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/composition-api@^1.0.0-beta.19":
+"@vue/composition-api@1.0.0-beta.19":
   version "1.0.0-beta.19"
   resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-beta.19.tgz#54355c5b6143337aafb37b022b240c90c431571c"
   integrity sha512-FYl3DofSJAKdLO2Ig18ITelcOAWc1CWwfgMrqh7op38aqR5RfcJ7RA3kiDu38iZB0r86dMxcaOHoszIGKpU98g==
@@ -2943,15 +2943,15 @@ core-js-pure@^3.0.0:
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.6.5.tgz#c79e75f5e38dbc85a662d91eea52b8256d53b813"
   integrity sha512-lacdXOimsiD0QyNf9BC/mxivNJ/ybBGJXQFKzRekp1WTHoVUWsUHEn+2T8GJAzzIhyOuXA+gOxCVN3l+5PLPUA==
 
+core-js@3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.7.0.tgz#b0a761a02488577afbf97179e4681bf49568520f"
+  integrity sha512-NwS7fI5M5B85EwpWuIwJN4i/fbisQUwLwiSNUWeXlkAZ0sbBjLEvLvFLf1uzAUV66PcEPt4xCGCmOZSxVf3xzA==
+
 core-js@^2.6.5:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
   integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
-
-core-js@^3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.7.0.tgz#b0a761a02488577afbf97179e4681bf49568520f"
-  integrity sha512-NwS7fI5M5B85EwpWuIwJN4i/fbisQUwLwiSNUWeXlkAZ0sbBjLEvLvFLf1uzAUV66PcEPt4xCGCmOZSxVf3xzA==
 
 core-util-is@~1.0.0:
   version "1.0.2"
@@ -3655,14 +3655,14 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-prettier@^6.12.0:
+eslint-config-prettier@6.15.0:
   version "6.15.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.15.0.tgz#7f93f6cb7d45a92f1537a70ecc06366e1ac6fed9"
   integrity sha512-a1+kOYLR8wMGustcgAjdydMsQ2A/2ipRPwRKUmfYaSxc9ZPcrku080Ctl6zrZzZNs/U82MjSv+qKREkoq3bJaw==
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-prettier@^3.1.4:
+eslint-plugin-prettier@3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.4.tgz#168ab43154e2ea57db992a2cd097c828171f75c2"
   integrity sha512-jZDa8z76klRqo+TdGDTFJSavwbnWK2ZpqGKNZ+VvweMW516pDUMmQ2koXvxEE4JhzNvTv+radye/bWGBmA6jmg==
@@ -5704,7 +5704,7 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt@^2.14.6:
+nuxt@2.14.7:
   version "2.14.7"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.14.7.tgz#041bb3f5c659b1fec80042d974f68a0ed4e93aa9"
   integrity sha512-0pmMDgSqyLacHJ0otGgfFC4cnMIiAfkK5JQ0TU4cHckwt1d0emgABqqWFuO9S45VI5sHHBFADDkbUnJt3JqbLg==
@@ -6814,15 +6814,15 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
+prettier@2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.1.2.tgz#3050700dae2e4c8b67c4c3f666cdb8af405e1ce5"
+  integrity sha512-16c7K+x4qVlJg9rEbXl7HEGmQyZlG4R9AgP+oHKRMsMsuk8s+ATStlf1NpDqyBI1HpVyfjLOeMhH2LvuNvV5Vg==
+
 prettier@^1.18.2:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
-
-prettier@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.1.2.tgz#3050700dae2e4c8b67c4c3f666cdb8af405e1ce5"
-  integrity sha512-16c7K+x4qVlJg9rEbXl7HEGmQyZlG4R9AgP+oHKRMsMsuk8s+ATStlf1NpDqyBI1HpVyfjLOeMhH2LvuNvV5Vg==
 
 pretty-bytes@^5.4.1:
   version "5.4.1"
@@ -7640,7 +7640,7 @@ storyblok-js-client@^2.5.2:
     axios "^0.19.0"
     qs "^6.5.2"
 
-storyblok-nuxt@^1.3.0:
+storyblok-nuxt@1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/storyblok-nuxt/-/storyblok-nuxt-1.3.0.tgz#b6605d7a639a405d387855f39c0a79a04d85b097"
   integrity sha512-SZrUS6Edb4zRBygUlDL2XXDaDer/izsZQDfZhPutDFndR3qo7HjEGE+zomzoF4CfcNpbqPKZvlxrOSy4/mmOlA==
